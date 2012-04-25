@@ -68,18 +68,29 @@ body{
 	
 }
 
-.mouse1{
+.pres{
+	height: 350px;
+	width: 200px;
+	perspective:150;
+	margin-left:950px;
+	-webkit-perspective:750;
+	-moz-perspective:750;
+}
+
+.mouse{
 	background-image:url(Images/magicmousemain.png);
 	background-repeat:no-repeat;
+	-webkit-transform: rotateX(90deg);
+	-moz-transform: rotateX(90deg);
 	position:absolute;
-	top:560px;
-	left:1010px;
+	top:570px;
+	left:100px;
 	height:100px;
 	width:60px;
 	z-index:10;
 }
 
-.mouse1:hover{
-	background-image:url(Images/magic%20mouse.png);
-		
+.mouse:hover{
+	-webkit-transform: rotateX(0deg);
+	-moz-transform: rotateX(0deg);
 }

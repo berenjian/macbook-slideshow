@@ -12,7 +12,7 @@
 		<div class="tablo"></div>
 		<div class="iphone"></div>
 		<div class="key"></div>
-		<div class="mouse1"></div>
+		<div class="pres"><div class="mouse"></div></div>
 		<div class="mac"></div>
 	</div>
 </div>
