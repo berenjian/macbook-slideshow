@@ -35,7 +35,6 @@ body{
 }
 
 .banner{
-	outline:1px blue solid;
 	width:552px;
 	height:355px;
 	margin-top:48px;
@@ -44,7 +43,6 @@ body{
 }
 
 .scroll{
-	outline:1px blue solid;
 	width:5000px;
 	height:355px;
 }
@@ -55,7 +53,6 @@ div.scroll > div{
 	height:inherit;
 	background-position:right top;
 	background-repeat:no-repeat;
-	outline:1px dashed red;
 }
 
 div.scroll  div.img1{
@@ -105,7 +102,6 @@ div.scroll  div.img4{
 	height:85px;
 	width:90px;
 	z-index:5;	
-	
 }
 
 .pres{
