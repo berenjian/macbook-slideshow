@@ -29,22 +29,64 @@ body{
 	background-image:url(Images/Macbook.png);
 	background-repeat:no-repeat;
 	position:absolute;
-	top:0;
-	left:0;
+	top:183px;
+	left:160px;
 	outline:1px red solid;
-	height:700px;
-	width:850px;
+	height:470px;
+	width:830px;
 	z-index:2;
 }
 
 .iphone{
-	background-image:url(Images/Iphone.png);
+	background-image:url(Images/iphone.png);
 	background-repeat:no-repeat;
 	position:absolute;
-	top:500px;
-	left:500px;
+	top:583px;
+	left:-85px;
+	outline:1px red solid;
+	height:150px;
+	width:210px;
+	z-index:3;
+}
+
+.tablo{
+	background-image:url(Images/pic%20mac.png);
+	background-repeat:no-repeat;
+	position:absolute;
+	top:70px;
+	left:-125px;
+	outline:1px red solid;
+	height:200px;
+	width:280px;
+	z-index:4;
+}
+
+.key{
+	background-image:url(Images/key.png);
+	background-repeat:no-repeat;
+	position:absolute;
+	top:600px;
+	left:-130px;
+	outline:1px red solid;
+	height:85px;
+	width:90px;
+	z-index:5;	
+	
+}
+
+.mouse1{
+	background-image:url(Images/magicmousemain.png);
+	background-repeat:no-repeat;
+	position:absolute;
+	top:560px;
+	left:1010px;
 	outline:1px red solid;
 	height:100px;
-	width:200px;
-	z-index:3;
+	width:60px;
+	z-index:10;
+}
+
+.mouse1:hover{
+	background-image:url(Images/magic%20mouse.png);
+		
 }
