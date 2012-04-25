@@ -1,3 +1,3 @@
 Slideshow:
 =============
-Authors: [@aligh]& [@brenjian]
+Authors: [aligh](http://github.com/brenjian)& [brenjian](http://github.com/brenjian)
