@@ -1,3 +1,3 @@
-An slideshow:
+Slideshow:
 =============
 Authors: aligh & brenjian
