@@ -12,8 +12,17 @@
 		<div class="tablo"></div>
 		<div class="iphone"></div>
 		<div class="key"></div>
-		<div class="pres"><div class="mouse"></div></div>
-		<div class="mac"></div>
+		<div class="pres">
+			<div class="mouse"></div>
+		</div>
+		<div class="mac">
+			<div class="scroll">
+				<div class="img1"></div>
+				<div class="img2"></div>
+				<div class="img3"></div>
+				<div class="img4"></div>
+			</div>			
+		</div>
 	</div>
 </div>
 </body>

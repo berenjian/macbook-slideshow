@@ -78,7 +78,7 @@ body{
 }
 
 .mouse{
-	background-image:url(Images/magicmousemain.png);
+	background-image:url(Images/apple-mouse.png);
 	background-repeat:no-repeat;
 	-webkit-transform: rotateX(90deg);
 	-moz-transform: rotateX(90deg);
@@ -88,6 +88,7 @@ body{
 	height:100px;
 	width:60px;
 	z-index:10;
+	cursor:pointer;
 }
 
 .mouse:hover{
