@@ -34,6 +34,46 @@ body{
 	z-index:2;
 }
 
+.banner{
+	outline:1px blue solid;
+	width:552px;
+	height:355px;
+	margin-top:48px;
+	margin-left:142px;
+	overflow:hidden;
+}
+
+.scroll{
+	outline:1px blue solid;
+	width:5000px;
+	height:355px;
+}
+
+div.scroll > div{
+	float:left;
+	width:552px;
+	height:inherit;
+	background-position:right top;
+	background-repeat:no-repeat;
+	outline:1px dashed red;
+}
+
+div.scroll  div.img1{
+	background-image:url(Images/banner/1.jpg);
+}
+
+div.scroll  div.img2{
+	background-image:url(Images/banner/2.jpg);
+}
+
+div.scroll  div.img3{
+	background-image:url(Images/banner/3.jpg);
+}
+
+div.scroll  div.img4{
+	background-image:url(Images/banner/4.jpg);
+}
+
 .iphone{
 	background-image:url(Images/iphone.png);
 	background-repeat:no-repeat;
