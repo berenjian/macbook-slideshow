@@ -20,7 +20,7 @@ body{
 .stuff{
 	position:relative;
 	outline:1px red solid;
-	min-height:550px;
-	width:950px;
+	min-height:700px;
+	width:980px;
 	margin:0 auto;
 }
