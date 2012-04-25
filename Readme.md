@@ -1,3 +1,3 @@
 Slideshow:
 =============
-Authors: **aligh** & **brenjian**
+Authors: [**aligh**] & [**brenjian**]
