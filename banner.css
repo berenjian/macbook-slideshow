@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:black;
+}
+
+.container{
+	background-image:url(Images/background.png);
+	background-position:center top;
+	background-repeat:no-repeat;
+	min-height:700px;
+	width:1970px;
+	margin:0 auto;
+	outline:1px red solid;
+}
+
+.stuff{
+	position:relative;
+	outline:1px red solid;
+	min-height:550px;
+	width:950px;
+	margin:0 auto;
+}
