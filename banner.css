@@ -14,12 +14,10 @@ body{
 	min-height:700px;
 	width:1345px;
 	margin:0 auto;
-	outline:1px green solid;
 }
 
 .stuff{
 	position:relative;
-	outline:1px red solid;
 	min-height:700px;
 	width:980px;
 	margin:0 auto;
@@ -31,7 +29,6 @@ body{
 	position:absolute;
 	top:183px;
 	left:160px;
-	outline:1px red solid;
 	height:470px;
 	width:830px;
 	z-index:2;
@@ -43,7 +40,6 @@ body{
 	position:absolute;
 	top:583px;
 	left:-85px;
-	outline:1px red solid;
 	height:150px;
 	width:210px;
 	z-index:3;
@@ -55,7 +51,6 @@ body{
 	position:absolute;
 	top:70px;
 	left:-125px;
-	outline:1px red solid;
 	height:200px;
 	width:280px;
 	z-index:4;
@@ -67,7 +62,6 @@ body{
 	position:absolute;
 	top:600px;
 	left:-130px;
-	outline:1px red solid;
 	height:85px;
 	width:90px;
 	z-index:5;	
@@ -80,7 +74,6 @@ body{
 	position:absolute;
 	top:560px;
 	left:1010px;
-	outline:1px red solid;
 	height:100px;
 	width:60px;
 	z-index:10;
