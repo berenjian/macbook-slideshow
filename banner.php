@@ -22,7 +22,17 @@
 					<div class="img2"></div>
 					<div class="img3"></div>
 					<div class="img4"></div>
+					<div class="img5"></div>
+					<div class="img6"></div>
 				</div>
+			</div>
+			<div class="taskbar">
+				<div><img src="Images/banner/1.jpg" height="25" width="50" /></div>
+				<div><img src="Images/banner/2.jpg" height="25" width="50" /></div>
+				<div><img src="Images/banner/3.jpg" height="25" width="50" /></div>
+				<div><img src="Images/banner/4.jpg" height="25" width="50" /></div>
+				<div><img src="Images/banner/5.jpg" height="25" width="50" /></div>
+				<div><img src="Images/banner/6.jpg" height="25" width="50" /></div>
 			</div>			
 		</div>
 	</div>

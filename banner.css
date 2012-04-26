@@ -71,6 +71,33 @@ div.scroll  div.img4{
 	background-image:url(Images/banner/4.jpg);
 }
 
+div.scroll  div.img5{
+	background-image:url(Images/banner/5.jpg);
+}
+
+div.scroll  div.img6{
+	background-image:url(Images/banner/6.jpg);
+}
+
+.taskbar{
+	background-image:url(Images/taskbar.jpg);
+	background-repeat:no-repeat;
+	width:410px;
+	height:30px;
+	position:absolute;
+	top:370px;
+	left:210px;
+}
+
+div.taskbar > div{
+	float:left;
+	margin-left:15px;
+	margin-top:1px;
+	cursor:pointer;
+}
+div.taskbar > div:hover{
+	
+}
 .iphone{
 	background-image:url(Images/iphone.png);
 	background-repeat:no-repeat;
